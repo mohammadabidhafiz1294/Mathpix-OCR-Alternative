@@ -9,7 +9,7 @@ This project aims to provide a user-friendly GUI for Optical Character Recogniti
 
 ## Features
 
-[GUI Image](./images/image1.png)
+![GUI Image](./images/image1.png)
 
 -   Pix2Text OCR integration
 -   PyQt5 GUI with intuitive interface
@@ -18,7 +18,7 @@ This project aims to provide a user-friendly GUI for Optical Character Recogniti
 -   maim package integration (GNU compatibility)
 -   Copy button the output as a text
 -   Latex Generate compatibility.
-    [Latex generate](./images/image4.png)
+    ![Latex generate](./images/image4.png)
 
 ## Installation
 
@@ -59,11 +59,11 @@ pip install -r requirements.txt
 
 2. Use the "Capture and Generate" button to take a screenshot of the desired area.
 
-    [Generated text](./images/image2.png)
+    ![Generated text](./images/image2.png)
 
 3. Click the "Copy Output" button for copying the output text/math-latex.
 
-    [Copied Notification](./images/image3.png)
+    ![Copied Notification](./images/image3.png)
 
 ## License
 
