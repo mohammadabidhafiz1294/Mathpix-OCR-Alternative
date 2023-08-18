@@ -1,0 +1,16 @@
+# Ignore virtual environment folders
+__pychache__/
+
+python_mathpix_ocr/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore the .vscode folder
+.vscode/
+*.log
+
+# Ignore pipenv, poetry, or other dependency management files
+Pipfile
+Pipfile.lock
+pyproject.toml
